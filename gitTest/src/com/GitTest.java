@@ -10,6 +10,7 @@ public class GitTest {
         System.out.println("hello First Git test");
         System.out.println("hello First Git test");
         System.out.println("hello First Git test");
+        System.out.println("你好啊");
     }
 
 
@@ -18,5 +19,6 @@ public class GitTest {
         System.out.println(i);
         i += 10;
         System.out.println(i);
+        System.out.println("------------------------------------");
     }
 }
