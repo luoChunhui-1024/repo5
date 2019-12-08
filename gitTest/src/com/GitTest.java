@@ -11,6 +11,7 @@ public class GitTest {
         System.out.println("hello First Git test");
         System.out.println("hello First Git test");
         System.out.println("你好啊");
+        System.out.println("你是傻逼吗");
     }
 
 
