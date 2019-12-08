@@ -13,4 +13,10 @@ public class GitTest {
     }
 
 
+    public void test(){
+        int i = 0;
+        System.out.println(i);
+        i += 10;
+        System.out.println(i);
+    }
 }
